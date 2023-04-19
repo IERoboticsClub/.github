@@ -1,15 +1,6 @@
 
 
 
-<!-- PROJECT SHIELDS -->
-
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
 
 
 <!-- PROJECT SHIELDS -->
@@ -27,6 +18,45 @@
 # IE Robotics Club
 
 This repository contains a collection of repositories which stem from the Robotics Club!
+
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://github.com/IERoboticsClub">
+    <img src="https://drivinginnovation.ie.edu/wp-content/uploads/2023/03/robotics-club-2.png" height=200px >
+  </a>
+
+<h3 align="center">Repository for some pretty cool projects</h3>
+
+
+  <p align="center">
+    in a feeble attempt to answer any question with 42. 
+</div>
+
+
+
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#PoW-Series">About the PoW Series</a>
+      <ul>
+        <li><a href="#workshops">Workshops</a></li>
+      </ul>
+    </li>
+    <li><a href="#getting-started">Getting Started</a></li>
+    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#contributing">Contributing</a></li>
+
+ 
+
+  </ol>
+</details>
+
+
+
+
 ## PoW Series
 
 The IE Robotics Club organizes the AI Paper of the Week, a **discussion on a trending topic related to Robotics or AI**. During the event, we will be reviewing and analyzing a paper on one of these topics and **discussing the most intriguing aspects** of it in depth. Any doubts that may arise during the reading will be addressed.
@@ -44,8 +74,6 @@ The IE Robotics Club organizes the AI Paper of the Week, a **discussion on a tre
 - 3 ![Bert](https://arxiv.org/pdf/1810.04805.pdf)
 - 4 ![ViT](https://arxiv.org/pdf/2010.11929v2.pdf
 )
-- 5 ![ViT](https://arxiv.org/pdf/2010.11929v2.pdf
-)
 - 6 ![CLIP](https://arxiv.org/abs/2103.00020)
 
 ## Workshops
@@ -56,7 +84,8 @@ The IE Robotics Club organizes the AI Paper of the Week, a **discussion on a tre
 
 ## Contributing
 
-IF you have an idea for a workshop and want to participate, send us an E-Mail [here](mailto:robotics.club@ie.edu)
+IF you have an idea for a workshop, project and or just want to joind the club, send us an E-Mail [here](mailto:robotics.club@ie.edu)
+
 
 ## Social Media
 
