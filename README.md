@@ -23,7 +23,7 @@ This repository contains a collection of repositories which stem from the Roboti
 <br />
 <div align="center">
   <a href="https://github.com/IERoboticsClub">
-    <img src="https://drive.google.com/drive/u/0/folders/1DUbPIERKZj5Fj-GCF9X9fiiIoUfVai_U" height=200px  >
+    <img src="https://images.radio-canada.ca/w_1600,h_900/v1/ici-tele/16x9/wall-e.jpg" height=200px  >
   </a>
 
 <h3 align="center">Your robotics and AI space at IE University. </h3>
