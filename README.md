@@ -23,7 +23,7 @@ This repository contains a collection of repositories which stem from the Roboti
 <br />
 <div align="center">
   <a href="https://github.com/IERoboticsClub">
-    <img src="https://drivinginnovation.ie.edu/wp-content/uploads/2023/03/robotics-club-2.png" height=200px >
+    <img src="https://teeturtle-s3-web.s3.amazonaws.com/accounts/1/products/1986199882422/PXR-Wall-E--Eve_4200x4200_SEPS-1-1000x1000.jpg" height=200px >
   </a>
 
 <h3 align="center">Repository for some pretty cool projects</h3>
