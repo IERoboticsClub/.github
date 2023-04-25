@@ -102,6 +102,9 @@ IF you have an idea for a workshop, project and or just want to joind the club, 
 
 
 
+
+
+
 <!-- MARKDOWN LINKS & IMAGES [![Name][Shield]][url] -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/vtwoptwo/CPPBasics.svg?style=for-the-badge
@@ -115,6 +118,7 @@ IF you have an idea for a workshop, project and or just want to joind the club, 
 [license-shield]: https://img.shields.io/github/license/vtwoptwo/CPPBasics.svg?style=for-the-badge
 [license-url]: https://github.com//IERoboticsClub/workshops//blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/in/vera-prohaska-31734b1b5/
 [linkedin-url]: https://es.linkedin.com/company/ie-robotics-club
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
