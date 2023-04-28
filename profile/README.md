@@ -69,11 +69,35 @@ The IE Robotics Club organizes the AI Paper of the Week, a **discussion on a tre
 - [Steganography Workshop](https://github.com/IERoboticsClub/steganography-workshop)
 - [AI Chatbot Assistant](https://github.com/IERoboticsClub/workshops/tree/main/ai-chatbot-assistant)
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ieroboticsclub&label=Profile%20views&color=blue&style=flat" alt="PROFILE VIEWS"/>
+</p>
 
-## Contributing
+<p align="center">
+  <img src="/github-metrics.svg" alt="Metrics" width="600">
+</p>
 
-IF you have an idea for a workshop, project and or just want to joind the club, send us an E-Mail [here](mailto:robotics.club@ie.edu)
+## Contribute
 
+If you have an idea for a workshop, project and or just want to joind the club, send us an E-Mail [here](mailto:robotics.club@ie.edu)
+
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+
+
+If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
+
+Don't forget to give the project a star! Thanks again!
+
+1. Fork the Project and create a feature: 
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+Feel Free to contact us: 
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:robotics.club@ie.edu)
 
 ## Social Media
 
