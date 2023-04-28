@@ -74,7 +74,7 @@ The IE Robotics Club organizes the AI Paper of the Week, a **discussion on a tre
 </p>
 
 <p align="center">
-  <img src="/github-metrics.svg" alt="Metrics" width="600">
+  <img src="./github-metrics.svg" alt="Metrics" width="600">
 </p>
 
 ## Contribute
