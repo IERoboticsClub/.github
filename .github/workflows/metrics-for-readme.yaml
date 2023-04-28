@@ -16,8 +16,8 @@ jobs:
         with:
           token: ${{ secrets.METRICS_GITHUB }}
           
-          user: miguelgfierro
-          commits_authoring: miguelgfierro, Miguel Fierro, Miguel González-Fierro
+          user: ieroboticsclub
+          commits_authoring: ieroboticsclub
           config_timezone: Europe/Madrid
           template: classic
 
