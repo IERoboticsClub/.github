@@ -27,7 +27,9 @@ jobs:
           repositories_batch: 2
           repositories_affiliations: owner, collaborator, organization_member
           
-          plugin_repositories: yes
+          plugin_stars: yes
+          plugin_traffic: yes
+          
           
           
           plugin_activity: yes
