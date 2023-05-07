@@ -28,7 +28,7 @@ jobs:
           repositories_affiliations: owner, collaborator, organization_member
           
           plugin_repositories: yes
-          plugin_repositories_pinned: 2
+          
           
           plugin_activity: yes
           plugin_activity_limit: 5
