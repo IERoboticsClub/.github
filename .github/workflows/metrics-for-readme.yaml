@@ -26,12 +26,7 @@ jobs:
           repositories: 1000
           repositories_batch: 2
           repositories_affiliations: owner, collaborator, organization_member
-          
-          plugin_stars: yes
-          plugin_traffic: yes
-          
-          
-          
+                
           plugin_activity: yes
           plugin_activity_limit: 5
           plugin_activity_days: 0
