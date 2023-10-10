@@ -2,7 +2,7 @@
 
 
 
-# IE Robotics Club
+# IE Robotics & AI Club
 
 This repository contains a collection of repositories which stem from the Robotics Club!
 
